@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+window.addEventListener('load', function() \{
+	setTimeout(scrollTo, 0, 0, 1);
+\}, false);
+]]></content>
+	<tabTrigger>scrollto</tabTrigger>
+	<description>ios scrollto 0</description>
+	<!-- <scope>source.js, source.html</scope> -->
+</snippet>

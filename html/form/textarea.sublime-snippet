@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<textarea id="${1}" cols="30" rows="5" placeholder="${2}"></textarea>
+]]></content>
+	<tabTrigger>textarea</tabTrigger>
+	<description>textarea</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+]]></content>
+	<tabTrigger>meta:vp+</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

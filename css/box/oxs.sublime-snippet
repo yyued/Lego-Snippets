@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+overflow-x: scroll;
+]]></content>
+	<tabTrigger>oxs</tabTrigger>
+	<description>overflow-x:scroll</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

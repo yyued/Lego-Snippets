@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<iframe src="${1:about:blank}" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+]]></content>
+	<tabTrigger>iframe</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+	${1:/* Styles */}
+}
+]]></content>
+	<tabTrigger>iphone4</tabTrigger>
+	<description>@media iphone4</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

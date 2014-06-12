@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+@-webkit-keyframes myanim {
+    0%   { opacity: 0.0; }
+    50%  { opacity: 0.5; }
+    100% { opacity: 1.0; }
+}
+@-moz-keyframes myanim {
+    0%   { opacity: 0.0; }
+    50%  { opacity: 0.5; }
+    100% { opacity: 1.0; }
+}
+@-o-keyframes myanim {
+    0%   { opacity: 0.0; }
+    50%  { opacity: 0.5; }
+    100% { opacity: 1.0; }
+}
+@keyframes myanim {
+    0%   { opacity: 0.0; }
+    50%  { opacity: 0.5; }
+    100% { opacity: 1.0; }
+}
+]]></content>
+	<tabTrigger>keyframes</tabTrigger>
+    <description>@keyframes</description>
+    <scope>source.css, source.scss</scope>
+</snippet>

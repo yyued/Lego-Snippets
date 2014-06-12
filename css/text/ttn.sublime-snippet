@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-transform: none;
+]]></content>
+	<tabTrigger>ttn</tabTrigger>
+	<description>text-transform:none</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

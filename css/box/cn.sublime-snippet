@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clear: none;
+]]></content>
+	<tabTrigger>cn</tabTrigger>
+	<description>clear:none</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

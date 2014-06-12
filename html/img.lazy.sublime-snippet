@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<img src="http://http://assets.dwstatic.com/common/img/blank.png" data-original="http://art.yypm.com/${1:130x90}" alt="">
+]]></content>
+	<tabTrigger>imgl</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

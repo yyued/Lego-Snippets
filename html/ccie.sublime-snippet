@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<!--[if IE]>${0}<![endif]-->
+]]></content>
+	<tabTrigger>ccie</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<label for="zip">${1:邮编：}</label>
+<input id="zip" type="text" plachholder="">
+]]></content>
+	<tabTrigger>zip+</tabTrigger>
+	<description>input+zip</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

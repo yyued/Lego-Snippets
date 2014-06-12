@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-attachment: fixed;
+]]></content>
+	<tabTrigger>bgaf</tabTrigger>
+	<description>background-attachment:fixed</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<link href="${1:http://assets.dwstatic.com/common/xml/opensearch.xml}" title="${2:多玩搜索}" rel="search" type="application/opensearchdescription+xml">
+]]></content>
+	<tabTrigger>link:search</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

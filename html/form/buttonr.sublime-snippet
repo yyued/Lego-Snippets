@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button type="reset">${1:重置}</button>
+]]></content>
+	<tabTrigger>buttonr</tabTrigger>
+	<description>type=reset</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

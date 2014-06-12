@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right: ${1:1px} dashed ${2:transparent};
+]]></content>
+	<tabTrigger>bdr-</tabTrigger>
+	<description>border-right . dashed</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

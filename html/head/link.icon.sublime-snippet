@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<link href="${1:/favicon.ico}" rel="shortcut icon">
+]]></content>
+	<tabTrigger>link:fav</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+<!-- <link rel="shortcut icon" href="/apple-touch-icon.png"> -->

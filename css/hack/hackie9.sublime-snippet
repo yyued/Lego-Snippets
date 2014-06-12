@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@media screen and (min-width:0\0) {
+	${0}
+}
+]]></content>
+	<tabTrigger>hackie9</tabTrigger>
+	<description>Hack for IE9</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

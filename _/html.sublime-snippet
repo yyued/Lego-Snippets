@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>${1}</title>
+</head>
+<body>
+	${0}
+]]></content>
+	<tabTrigger>html</tabTrigger>
+	<description>HTML Default Template</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

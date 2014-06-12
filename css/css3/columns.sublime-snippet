@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+-webkit-column-count: ${1:2};
+   -moz-column-count: $1;
+        column-count: $1;
+]]></content>
+	<tabTrigger>columns</tabTrigger>
+    <description>column-count</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<label for="email">${1:邮箱：}</label>
+<input id="email" type="email" placeholder="${2:Email}">
+]]></content>
+	<tabTrigger>email+</tabTrigger>
+	<description>label+email</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

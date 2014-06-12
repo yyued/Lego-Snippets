@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+var resizeTimer = null;
+$(window).on("resize", function () \{
+        if (resizeTimer) \{
+            clearTimeout(resizeTimer)
+        \}
+        resizeTimer = setTimeout(function()\{
+            console.log("window resize");
+        \}, 400);
+    \}
+);
+]]></content>
+	<tabTrigger>resize</tabTrigger>
+	<description>resize优化</description>
+	<!-- <scope>source.js, source.html</scope> -->
+</snippet>
+<!-- http://www.css88.com/archives/5217 -->

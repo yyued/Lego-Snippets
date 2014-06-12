@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<label for="${1}">${2}</label>
+<input id="$1" type="$1" placeholder="${3}">
+]]></content>
+	<tabTrigger>l+i</tabTrigger>
+	<description>label+input</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

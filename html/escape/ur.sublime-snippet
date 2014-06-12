@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+&reg;
+]]></content>
+	<tabTrigger>ur</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+-webkit-transform: rotate(${1:0}deg);
+   -moz-transform: rotate($1deg);
+    -ms-transform: rotate($1deg);
+     -o-transform: rotate($1deg);
+        transform: rotate($1deg);
+]]></content>
+	<tabTrigger>rotate</tabTrigger>
+    <description>transform: rotate</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+if(\$.browser.msie && (\$.browser.version == "6.0") && !\$.support.style) \{
+	$(1)
+\};
+]]></content>
+	<tabTrigger>$ifie6</tabTrigger>
+	<description>jQuery if ie6</description>
+	<!-- <scope>source.js</scope> -->
+</snippet>

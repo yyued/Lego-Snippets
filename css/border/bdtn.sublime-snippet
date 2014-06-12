@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top: 0 none;
+]]></content>
+	<tabTrigger>bdtn</tabTrigger>
+	<description>border-top:0 none</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

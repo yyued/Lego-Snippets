@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-left-color: ${1:transparent};
+]]></content>
+	<tabTrigger>bdlc</tabTrigger>
+	<description>border-left-color</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

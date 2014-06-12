@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button>${1:确认}</button>
+]]></content>
+	<tabTrigger>button</tabTrigger>
+	<description>type=button</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

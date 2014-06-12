@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<meta name="author" content="${1:Max}">
+<link type="text/plain" rel="author" href="${2:/humans.txt}">
+]]></content>
+	<tabTrigger>meta:author</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

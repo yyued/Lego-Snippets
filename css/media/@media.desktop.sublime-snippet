@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+@media only screen
+and (min-width : 1224px) {
+	${1:/* Styles */}
+}
+]]></content>
+	<tabTrigger>desktop</tabTrigger>
+	<description>@media desktop</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

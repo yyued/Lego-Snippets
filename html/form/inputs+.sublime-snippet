@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<input type="search" autocomplete="off" x-webkit-speech x-webkit-grammar="builtin:search" onwebkitspeechchange="jQuery(this).closest('form').submit()">
+]]></content>
+	<tabTrigger>inputs+</tabTrigger>
+	<description>type=search webkit-speech</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- http://www.iinterest.net/2012/01/07/x-webkit-speech/ -->

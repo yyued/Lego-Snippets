@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<!-- TODO: ${1:something} -->
+]]></content>
+	<tabTrigger>tdh</tabTrigger>
+	<description>&lt;!-- TODO: ? --&gt;</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

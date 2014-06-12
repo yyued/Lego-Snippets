@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return false;
+]]></content>
+	<tabTrigger>rf</tabTrigger>
+	<description>return false</description>
+	<!-- <scope>source.js, source.html</scope> -->
+</snippet>

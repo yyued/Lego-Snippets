@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<meta content="${1}" name="description">
+]]></content>
+	<tabTrigger>meta:des</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

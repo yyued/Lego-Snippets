@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+vertical-align: ${1:middle};
+]]></content>
+	<tabTrigger>va</tabTrigger>
+	<description>vertical-align</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

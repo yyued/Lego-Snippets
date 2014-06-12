@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cursor: url(${1:absolute URL}), auto;);
+]]></content>
+	<tabTrigger>cururl</tabTrigger>
+	<description>cursor:url()</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

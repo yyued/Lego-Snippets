@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<colgroup>
+	${1}
+</colgroup>
+]]></content>
+	<tabTrigger>colg</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

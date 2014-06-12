@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-size: 14px;
+]]></content>
+	<tabTrigger>fsm</tabTrigger>
+	<description>font-size:14px</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<meta charset="${1:utf-8}">
+]]></content>
+	<tabTrigger>meta:char</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

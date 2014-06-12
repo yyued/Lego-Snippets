@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<meta name="msapplication-TileColor" content="#2b86ec">
+<meta name="msapplication-TileImage" content="windows-touch-icon-144x144.png">
+]]></content>
+	<tabTrigger>windows.touch.icon</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- http://rispen.nl/blog/posts/2013/10/web-app-essentials-1-touch-icons-and-favicons/ -->

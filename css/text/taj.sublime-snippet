@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-align: justify;
+]]></content>
+	<tabTrigger>taj</tabTrigger>
+	<description>text-align:justify</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

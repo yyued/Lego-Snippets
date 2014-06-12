@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-left: ${1:1px} dotted ${2:transparent};
+]]></content>
+	<tabTrigger>bdl.</tabTrigger>
+	<description>border-left . dotted</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

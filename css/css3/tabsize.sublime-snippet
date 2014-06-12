@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+  -moz-tab-size: ${1:2};
+    -o-tab-size: $1;
+       tab-size: $1;
+]]></content>
+	<tabTrigger>tabsize</tabTrigger>
+    <description>tab-size</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

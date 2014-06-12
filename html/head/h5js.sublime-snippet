@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<!--[if lt IE 9]><script src="http://assets.dwstatic.com/common/js/html5shiv.js"></script><![endif]-->
+]]></content>
+	<tabTrigger>h5js</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+	<!-- https://github.com/aFarkas/html5shiv -->
+</snippet>

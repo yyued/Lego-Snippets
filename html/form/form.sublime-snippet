@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<form action="about:blank" method="get|post" autocomplete="on|off" novalidate accept-charset="utf-8">
+	${0}
+</form>
+]]></content>
+	<tabTrigger>form</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

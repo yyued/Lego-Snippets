@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+try\{
+　　top.location.hostname;
+　　if (top.location.hostname != window.location.hostname) \{
+　　　　top.location.href =window.location.href;
+　　\}
+\}
+catch(e)\{
+　　top.location.href = window.location.href;
+\}
+]]></content>
+	<tabTrigger>noframe</tabTrigger>
+	<description>not in iframe</description>
+	<!-- <scope>source.js, source.html</scope> -->
+</snippet>

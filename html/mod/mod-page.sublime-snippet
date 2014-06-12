@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<div class="mod-page">
+	<a href="#" rel="prev" title="上一页">上一页</a>
+	<a href="#" title="已经是当前页" class="current">1</a>
+	<a href="#" title="第2页">2</a>
+	<a href="#" title="第3页">3</a>
+	<a href="#" title="第4页">4</a>
+	<a href="#" title="第5页">5</a>
+	<a href="#" title="第16页">16</a>
+	<a href="#" title="第17页">17</a>
+	<a href="#" title="第18页">18</a>
+	<a href="#" title="第19页">19</a>
+	<a href="#" title="第200页">200</a>
+	<a href="#" rel="next" title="下一页">下一页</a>
+</div>
+]]></content>
+	<tabTrigger>modpage</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

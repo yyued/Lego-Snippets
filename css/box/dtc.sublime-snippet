@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display: table-cell;
+]]></content>
+	<tabTrigger>dtc</tabTrigger>
+	<description>display:table-cell</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

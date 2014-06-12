@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+max-width: ${1:100}px;
+_width: expression(this.parentNode.offsetWidth < $1 ? "$1px" : "auto");
+]]></content>
+	<tabTrigger>maxw</tabTrigger>
+	<description>max-width</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

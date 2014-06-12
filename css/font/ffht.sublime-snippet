@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+font-family: SimHei;
+]]></content>
+	<tabTrigger>ffht</tabTrigger>
+	<description>font-family:SimHei</description>
+	<scope>source.css, source.scss</scope>
+</snippet>
+<!-- TODO: \9ED1\4F53 -->

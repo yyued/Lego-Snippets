@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+-webkit-transform: scale(${1:0});
+   -moz-transform: scale($1);
+    -ms-transform: scale($1);
+     -o-transform: scale($1);
+        transform: scale($1);
+]]></content>
+	<tabTrigger>scale</tabTrigger>
+    <description>transform: scale</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<base href="${1:/}" target="${2:_blank|_self}">
+]]></content>
+	<tabTrigger>meta:base</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

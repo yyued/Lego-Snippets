@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+@font-face {
+	font-family: '${1:WebFont}';
+			src: url('${2:myfont}.eot?#') format('eot'),
+			     url('$2.woff') format('woff'),
+			     url('$2.ttf') format('truetype');
+}
+]]></content>
+	<tabTrigger>fontface</tabTrigger>
+    <description>@font-face</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

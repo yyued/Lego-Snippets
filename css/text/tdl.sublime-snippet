@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-decoration: line-through;
+]]></content>
+	<tabTrigger>tdl</tabTrigger>
+	<description>text-decoration:line-through</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

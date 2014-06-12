@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	${0}
+}
+]]></content>
+	<tabTrigger>hackie10</tabTrigger>
+	<description>Hack for IE10</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

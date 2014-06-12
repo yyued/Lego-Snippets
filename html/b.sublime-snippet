@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<b>${0}</b>
+]]></content>
+	<tabTrigger>bb</tabTrigger>
+	<description>b element</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

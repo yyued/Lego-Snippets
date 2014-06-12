@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-right-color: ${1:transparent};
+]]></content>
+	<tabTrigger>bdrc</tabTrigger>
+	<description>border-right-color</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="name">
+]]></content>
+	<tabTrigger>inputn</tabTrigger>
+	<description>type=name</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

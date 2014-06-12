@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+letter-spacing: ${1:1px};
+]]></content>
+	<tabTrigger>ls</tabTrigger>
+	<description>letter-spacing</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

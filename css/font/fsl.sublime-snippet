@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-size: 16px;
+]]></content>
+	<tabTrigger>fsl</tabTrigger>
+	<description>font-size:16px</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-transform: lowercase;
+]]></content>
+	<tabTrigger>ttl</tabTrigger>
+	<description>text-transform:lowercase</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<label for="remember" class="remeber">
+	<input id="remember" type="checkbox">${1:Remeber}
+</label>
+]]></content>
+	<tabTrigger>remember+</tabTrigger>
+	<description>label+remember</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

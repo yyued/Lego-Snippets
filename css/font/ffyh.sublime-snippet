@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+font-family: "Microsoft YaHei";
+]]></content>
+	<tabTrigger>ffyh</tabTrigger>
+	<description>font-family:Microsoft YaHei</description>
+	<scope>source.css, source.scss</scope>
+</snippet>
+<!-- TODO: \5FAE\8F6F\96C5\9ED1 -->

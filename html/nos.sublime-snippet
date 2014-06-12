@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<noscript>
+	${0}
+</noscript>
+]]></content>
+	<tabTrigger>nos</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

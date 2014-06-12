@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<!-- iPad Retina running iOS ≥ 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152-precomposed.png">
+<!-- iPad Retina running iOS ≤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+<!-- iPhone Retina running iOS ≥ 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120-precomposed.png">
+<!-- iPhone Retina running iOS ≤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+<!-- iPad mini and iPad G1/G2 running iOS ≥ 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76-precomposed.png">
+<!-- iPad mini and iPad G1/G2 running iOS ≤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+<!-- iPhone non-Retina, iPod Touch non-Retina -->
+<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+]]></content>
+	<tabTrigger>apple.touch.icon</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- http://rispen.nl/blog/posts/2013/10/web-app-essentials-1-touch-icons-and-favicons/ -->

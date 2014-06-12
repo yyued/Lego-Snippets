@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float: right; _display: inline;
+]]></content>
+	<tabTrigger>fr</tabTrigger>
+	<description>float:right</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

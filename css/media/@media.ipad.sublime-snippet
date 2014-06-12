@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+	${1:/* Styles */}
+}
+]]></content>
+	<tabTrigger>ipad</tabTrigger>
+	<description>@media ipad</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

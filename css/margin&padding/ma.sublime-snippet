@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+margin: auto;
+]]></content>
+	<tabTrigger>ma</tabTrigger>
+	<description>margin:auto</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

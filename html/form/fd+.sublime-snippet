@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<fieldset>
+	<legend>${1}</legend>
+	${2}
+</fieldset>
+]]></content>
+	<tabTrigger>fd+</tabTrigger>
+	<description>fieldset>legend</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

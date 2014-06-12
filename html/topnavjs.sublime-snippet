@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- 全站导航{ -->
+<script src="http://www.duowan.com/public/s/i/navbar/navbar.js" charset="utf-8"></script>
+<!-- }全站导航 -->
+]]></content>
+	<tabTrigger>topnavjs</tabTrigger>
+	<description>navbar.js</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

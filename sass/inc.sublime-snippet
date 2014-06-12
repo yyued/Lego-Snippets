@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include
+]]></content>
+	<tabTrigger>inc</tabTrigger>
+	<scope>source.scss</scope>
+	<description>@include</description>
+</snippet>

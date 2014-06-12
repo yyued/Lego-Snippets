@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<noscript><meta http-equiv="refresh" content="0;url=${1:/nojs.html}"></noscript>
+]]></content>
+	<tabTrigger>nojshtml</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

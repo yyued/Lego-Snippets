@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-transform: uppercase;
+]]></content>
+	<tabTrigger>ttu</tabTrigger>
+	<description>text-transform:uppercase</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

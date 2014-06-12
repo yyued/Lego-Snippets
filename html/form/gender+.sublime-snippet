@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<label for="gender">性别</label>
+<select id="gender" name="gender">
+	<option value="male">男</option>
+	<option value="female">女</option>
+</select>
+]]></content>
+	<tabTrigger>gender+</tabTrigger>
+	<description>label gender</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

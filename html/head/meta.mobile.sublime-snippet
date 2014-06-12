@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<meta name="HandheldFriendly" content="true">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta http-equiv="cleartype" content="on">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="email=no">
+<meta name="format-detection" content="address=no">
+]]></content>
+	<tabTrigger>meta:mobi</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- http://blogs.msdn.com/b/iemobile/archive/2010/11/22/the-ie-mobile-viewport-on-windows-phone-7.aspx -->
+<!-- http://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariWebContent/UsingtheViewport/UsingtheViewport.html -->
+<!-- https://developer.mozilla.org/en-US/docs/Mobile/Viewport_meta_tag -->
+<!-- http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/ -->

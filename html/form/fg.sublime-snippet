@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    ${0}
+</div>
+]]></content>
+	<tabTrigger>fg</tabTrigger>
+	<description>form group</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

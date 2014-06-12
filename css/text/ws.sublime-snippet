@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+word-spacing: ${1:1px};
+]]></content>
+	<tabTrigger>ws</tabTrigger>
+	<description>word-spacing</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

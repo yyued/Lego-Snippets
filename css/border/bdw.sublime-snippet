@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-width: ${1:0};
+]]></content>
+	<tabTrigger>bdw</tabTrigger>
+	<description>border-width</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

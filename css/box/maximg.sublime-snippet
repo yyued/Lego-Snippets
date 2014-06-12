@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+max-width: ${1:100}px;
+max-height: ${2:200}px;
+_width: expression(this.width > $1 && this.width / this.height >= ($1/$2) ? $1 : true);
+_height: expression(this.height > $2 && this.width / this.height < ($1/$2) ? $2 : true);
+]]></content>
+	<tabTrigger>maximg</tabTrigger>
+	<description>max-width max-height img</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

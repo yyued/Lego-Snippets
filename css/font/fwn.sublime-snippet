@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-weight: 400;
+]]></content>
+	<tabTrigger>fwn</tabTrigger>
+	<description>font-weight:400</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

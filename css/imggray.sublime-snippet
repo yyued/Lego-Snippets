@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+img.grayscale{
+    filter: grayscale(100%);
+    /* For Webkit browsers */
+    -webkit-filter: grayscale(100%);
+    /* For IE 6 - 9 */
+    filter: gray;
+    /* Fade to color for Chrome and Safari */
+    -webkit-transition: all .6s ease;
+    /* Firefox 10+, Firefox on Android */
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+}
+img.grayscale:hover{
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+}
+]]></content>
+	<tabTrigger>imggray</tabTrigger>
+	<description>img.grayscale</description>
+	<scope>source.css, source.scss</scope>
+</snippet>
+<!-- http://codigoadicto.com/snippets/agregar-escala-de-grises-a-una-imagen -->

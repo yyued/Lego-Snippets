@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\$().hover(function() \{
+
+\},function() \{
+	var \$this = \$();
+	setTimeout(function()\{\$this.addClass('hide');\},2000);
+\});
+]]></content>
+	<tabTrigger>hoversettimeout</tabTrigger>
+	<description>jQuery hover settimeout</description>
+	<!-- <scope>source.js</scope> -->
+</snippet>

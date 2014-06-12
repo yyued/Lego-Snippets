@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-top: ${1:1px} solid ${2:transparent};
+]]></content>
+	<tabTrigger>bdt</tabTrigger>
+	<description>border-top . solid</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <meta http-equiv="cleartype" content="on">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/touch/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/touch/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/touch/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="img/touch/apple-touch-icon-57x57-precomposed.png">
+    <link rel="shortcut icon" sizes="196x196" href="img/touch/touch-icon-196x196.png">
+    <link rel="shortcut icon" href="img/touch/apple-touch-icon.png">
+
+    <!-- For iOS web apps. Delete if not needed. -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="">
+    <title>${1}</title>
+</head>
+<body>
+	${0}
+]]></content>
+	<tabTrigger>htmlmobi</tabTrigger>
+	<description>HTML Mobile Default Template</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

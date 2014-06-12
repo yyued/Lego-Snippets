@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<link rel="shortcut icon" sizes="196x196" href="android-touch-icon-196x196.png">
+<link rel="shortcut icon" sizes="128x128" href="android-touch-icon-128x128.png">
+]]></content>
+	<tabTrigger>android.touch.icon</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- http://rispen.nl/blog/posts/2013/10/web-app-essentials-1-touch-icons-and-favicons/ -->

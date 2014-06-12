@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+	${1:/* Styles */}
+}
+]]></content>
+	<tabTrigger>ipadlandscape</tabTrigger>
+	<description>@media ipad landscape</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

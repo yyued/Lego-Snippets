@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a class="more" href="#">更多&raquo;</a>
+]]></content>
+	<tabTrigger>amore</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

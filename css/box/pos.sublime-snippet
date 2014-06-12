@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+position: static;
+]]></content>
+	<tabTrigger>pos</tabTrigger>
+	<description>position:static</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

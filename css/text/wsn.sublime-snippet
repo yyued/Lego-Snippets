@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+white-space: nowrap;
+]]></content>
+	<tabTrigger>wsn</tabTrigger>
+	<description>white-space:nowrap</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

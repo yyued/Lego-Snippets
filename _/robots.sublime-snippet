@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+# Disallow: /
+]]></content>
+	<tabTrigger>robots</tabTrigger>
+	<description>robots.txt</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

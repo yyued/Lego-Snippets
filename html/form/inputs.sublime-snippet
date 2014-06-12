@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="search" placeholder="请输入关键词" autofocus required>
+]]></content>
+	<tabTrigger>inputs</tabTrigger>
+	<description>type=search</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

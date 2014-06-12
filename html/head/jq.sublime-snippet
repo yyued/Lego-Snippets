@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<script src="http://assets.dwstatic.com/common/js/jquery.js"></script>
+]]></content>
+	<tabTrigger>jq</tabTrigger>
+	<description>jquery.js</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

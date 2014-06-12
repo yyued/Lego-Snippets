@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="radio" name="">
+]]></content>
+	<tabTrigger>inputr</tabTrigger>
+	<description>type=radio</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" title=""><img src="http://art.yypm.com/${1:130x90}" alt="">${2}</a>
+]]></content>
+	<tabTrigger>aimg</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

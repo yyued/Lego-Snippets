@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-action">
+    ${0}
+</div>
+]]></content>
+	<tabTrigger>fa</tabTrigger>
+	<description>form action</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

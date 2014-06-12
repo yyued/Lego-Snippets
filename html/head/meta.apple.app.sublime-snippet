@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<meta name="apple-itunes-app" content="app-id=${1}">
+]]></content>
+	<tabTrigger>meta:appleapp</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
