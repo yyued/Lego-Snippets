@@ -3,5 +3,5 @@
 &lt;
 ]]></content>
 	<tabTrigger>ul</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

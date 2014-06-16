@@ -3,5 +3,5 @@
 <!--[if IE 6]><script>try{document.execCommand("BackgroundImageCache",false,true)}catch(e){};</script><![endif]-->
 ]]></content>
 	<tabTrigger>ie6imagecache</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

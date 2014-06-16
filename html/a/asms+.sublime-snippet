@@ -3,5 +3,5 @@
 <a href="sms:${1:13800138000}?body=${2:Some Text}">${3:Send Me Some Text}</a>
 ]]></content>
 	<tabTrigger>asms+</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

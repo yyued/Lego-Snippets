@@ -3,5 +3,5 @@
 <a href="#">${0}</a>
 ]]></content>
 	<tabTrigger>a</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

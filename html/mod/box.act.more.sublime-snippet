@@ -3,5 +3,5 @@
 <a class="more" href="#">更多&raquo;</a>
 ]]></content>
 	<tabTrigger>amore</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

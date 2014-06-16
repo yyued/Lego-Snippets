@@ -14,5 +14,5 @@
 </ol>
 ]]></content>
 	<tabTrigger>modartnd</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

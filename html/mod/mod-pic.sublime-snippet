@@ -6,5 +6,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>modpic</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

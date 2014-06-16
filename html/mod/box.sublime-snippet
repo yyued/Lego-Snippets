@@ -16,5 +16,5 @@
 ]]></content>
 	<tabTrigger>box</tabTrigger>
 	<description>Box Module Code</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

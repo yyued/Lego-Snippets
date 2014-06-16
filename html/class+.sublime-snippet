@@ -4,5 +4,5 @@ class="${0}"
 ]]></content>
 	<tabTrigger>class</tabTrigger>
 	<description>class=""</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

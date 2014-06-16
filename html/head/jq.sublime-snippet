@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>jq</tabTrigger>
 	<description>jquery.js</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

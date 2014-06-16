@@ -3,5 +3,5 @@
 <a onfocus="this.blur();" href="javascript:location.reload();" title="$1">${1:刷新}</a>
 ]]></content>
 	<tabTrigger>areload</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

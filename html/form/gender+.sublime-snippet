@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>gender+</tabTrigger>
 	<description>label gender</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

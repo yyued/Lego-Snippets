@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>fa</tabTrigger>
 	<description>form action</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

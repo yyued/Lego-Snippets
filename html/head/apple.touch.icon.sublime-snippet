@@ -16,6 +16,6 @@
 <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
 ]]></content>
 	<tabTrigger>apple.touch.icon</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>
 <!-- http://rispen.nl/blog/posts/2013/10/web-app-essentials-1-touch-icons-and-favicons/ -->

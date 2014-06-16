@@ -5,5 +5,5 @@
 </script>
 ]]></content>
 	<tabTrigger>script</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

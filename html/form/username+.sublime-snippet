@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>username+</tabTrigger>
 	<description>label+username</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

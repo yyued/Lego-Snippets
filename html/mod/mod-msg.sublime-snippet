@@ -7,5 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>modmsg</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

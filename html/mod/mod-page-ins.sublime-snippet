@@ -11,5 +11,5 @@
 </ins>
 ]]></content>
 	<tabTrigger>modpageins</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

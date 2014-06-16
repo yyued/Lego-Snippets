@@ -3,5 +3,5 @@
 <link href="${1}" rel="stylesheet">
 ]]></content>
 	<tabTrigger>link:css</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

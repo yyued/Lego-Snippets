@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>select</tabTrigger>
 	<description>select>option</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

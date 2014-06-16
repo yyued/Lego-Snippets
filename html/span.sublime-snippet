@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>span</tabTrigger>
 	<description>span element</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

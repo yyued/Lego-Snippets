@@ -3,5 +3,5 @@
 <a href="mailto:${1:htmlcssjavascript@gmail.com}?subject=${2:Feedback}" title="$3">${3:Email Me}</a>
 ]]></content>
 	<tabTrigger>amail</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

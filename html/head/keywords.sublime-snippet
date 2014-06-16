@@ -3,5 +3,5 @@
 <meta content="${1}" name="keywords">
 ]]></content>
 	<tabTrigger>meta:key</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

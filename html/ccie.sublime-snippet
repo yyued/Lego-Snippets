@@ -3,5 +3,5 @@
 <!--[if IE]>${0}<![endif]-->
 ]]></content>
 	<tabTrigger>ccie</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

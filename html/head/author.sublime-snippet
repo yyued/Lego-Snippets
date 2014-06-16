@@ -4,5 +4,5 @@
 <link type="text/plain" rel="author" href="${2:/humans.txt}">
 ]]></content>
 	<tabTrigger>meta:author</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

@@ -3,5 +3,5 @@
 <a onfocus="this.blur();" hidefocus="true" href="javascript:history.back();" title="$1">${1:返回}</a>
 ]]></content>
 	<tabTrigger>ahb</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

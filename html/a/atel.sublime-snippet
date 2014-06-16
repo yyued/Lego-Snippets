@@ -3,5 +3,5 @@
 <a href="tel:${1:13800138000}">${2:Call Me}</a>
 ]]></content>
 	<tabTrigger>atel</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

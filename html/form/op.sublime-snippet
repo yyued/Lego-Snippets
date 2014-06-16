@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>op</tabTrigger>
 	<description>option</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

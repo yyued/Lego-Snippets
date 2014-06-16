@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>input</tabTrigger>
 	<description>type=text</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

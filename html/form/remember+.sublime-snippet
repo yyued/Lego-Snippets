@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>remember+</tabTrigger>
 	<description>label+remember</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

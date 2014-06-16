@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>hr</tabTrigger>
 	<description>hr element</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

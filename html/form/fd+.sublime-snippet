@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>fd+</tabTrigger>
 	<description>fieldset>legend</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

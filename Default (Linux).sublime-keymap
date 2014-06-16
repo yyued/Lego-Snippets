@@ -1,8 +1,5 @@
 [
-    {
-        "command": "signature",
-        "keys": [
-            "ctrl+alt+shift+t"
-        ]
-    }
+    {"keys": ["shift+alt+ctrl+t"], "command": "add_date_time_stamp" },
+    {"keys": ["shift+alt+d"], "command": "add_date_stamp" },
+    {"keys": ["shift+alt+t"], "command": "add_time_stamp" }
 ]

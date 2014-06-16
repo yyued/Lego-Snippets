@@ -11,7 +11,7 @@
 <meta name="format-detection" content="address=no">
 ]]></content>
 	<tabTrigger>meta:mobi</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>
 <!-- http://blogs.msdn.com/b/iemobile/archive/2010/11/22/the-ie-mobile-viewport-on-windows-phone-7.aspx -->
 <!-- http://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariWebContent/UsingtheViewport/UsingtheViewport.html -->

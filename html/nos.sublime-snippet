@@ -5,5 +5,5 @@
 </noscript>
 ]]></content>
 	<tabTrigger>nos</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

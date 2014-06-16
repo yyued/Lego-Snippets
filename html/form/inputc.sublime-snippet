@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>inputc</tabTrigger>
 	<description>type=checkbox</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

@@ -1,5 +1,5 @@
 ## About
-LEGO Snippets in Sublime Text 2
+LEGO Snippets in Sublime Text 2/3
 
 ## How to install
 1. Get Package Control for Sublime Text 2. Installation is through the Sublime Text 2 console. This is accessed via the ctrl+` shortcut. Once open, paste the following command into the console.

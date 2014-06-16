@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>aitms</tabTrigger>
 	<description>href=itms-apps</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

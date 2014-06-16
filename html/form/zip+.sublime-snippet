@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>zip+</tabTrigger>
 	<description>input+zip</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

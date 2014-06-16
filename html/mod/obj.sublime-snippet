@@ -11,5 +11,5 @@
 </object>
 ]]></content>
 	<tabTrigger>obj</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

@@ -16,5 +16,5 @@
 ]]></content>
 	<tabTrigger>birthdate+</tabTrigger>
 	<description>label birthdate</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

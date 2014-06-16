@@ -4,7 +4,7 @@
 <!--[if gt IE 8]><link href="$1" rel="prefetch"><![endif]-->
 ]]></content>
 	<tabTrigger>meta:dns</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>
 <!-- https://developer.mozilla.org/en-US/docs/Controlling_DNS_prefetching -->
 <!-- http://blogs.msdn.com/b/ie/archive/2011/03/17/internet-explorer-9-network-performance-improvements.aspx -->

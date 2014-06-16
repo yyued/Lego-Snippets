@@ -4,6 +4,6 @@
 <meta name="msApplication-PackageFamilyName" content="microsoft.build_8wekyb3d8bbwe">
 ]]></content>
 	<tabTrigger>meta:ms</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>
 <!-- http://blogs.msdn.com/b/ie/archive/2011/10/20/connect-your-web-site-to-your-windows-8-app.aspx -->

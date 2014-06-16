@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>email+</tabTrigger>
 	<description>label+email</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

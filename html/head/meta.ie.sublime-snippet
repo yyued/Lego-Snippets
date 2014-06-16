@@ -3,7 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 ]]></content>
 	<tabTrigger>meta:ie</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>
 <!-- http://msdn.microsoft.com/en-us/library/ie/cc288325(v=vs.85).aspx#DCMODES -->
 <!-- http://www.google.com/chromeframe/?prefersystemlevel=true -->

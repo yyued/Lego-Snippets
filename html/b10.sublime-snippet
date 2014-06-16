@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>b10</tabTrigger>
 	<description>div.blank10</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

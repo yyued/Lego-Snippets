@@ -9,5 +9,5 @@
 </div>
 ]]></content>
 	<tabTrigger>box:act</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

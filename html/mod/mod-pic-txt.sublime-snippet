@@ -11,5 +11,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>modpictxt</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

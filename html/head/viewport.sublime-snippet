@@ -3,5 +3,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 ]]></content>
 	<tabTrigger>meta:vp</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

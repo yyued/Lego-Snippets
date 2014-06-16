@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>a0</tabTrigger>
 	<description>href=javascript:void(0)</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

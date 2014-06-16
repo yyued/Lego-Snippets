@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>fg</tabTrigger>
 	<description>form group</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

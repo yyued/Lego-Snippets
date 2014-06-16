@@ -4,6 +4,6 @@
 ]]></content>
 	<tabTrigger>inputs+</tabTrigger>
 	<description>type=search webkit-speech</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>
 <!-- http://www.iinterest.net/2012/01/07/x-webkit-speech/ -->

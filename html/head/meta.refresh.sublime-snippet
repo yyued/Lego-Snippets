@@ -3,5 +3,5 @@
 <meta http-equiv="refresh" content="${1:0};url=${2}">
 ]]></content>
 	<tabTrigger>meta:ref</tabTrigger>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>

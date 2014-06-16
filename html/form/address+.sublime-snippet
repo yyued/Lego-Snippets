@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>address+</tabTrigger>
 	<description>label+address</description>
-	<!-- <scope>source.python</scope> -->
+	<scope>text.html</scope>
 </snippet>
