@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<!-- 版权信息{ -->
+<!-- 多玩通用页脚{ -->
 <script src="http://www.duowan.com/assets/js/duowanFooter.js" charset="utf-8"></script>
-<!-- }版权信息 -->
+<!-- }多玩通用页脚 -->
 ]]></content>
-	<tabTrigger>footjs</tabTrigger>
+	<tabTrigger>dwfoot</tabTrigger>
 	<description>duowanFooter.js</description>
 	<scope>text.html</scope>
 </snippet>

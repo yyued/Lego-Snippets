@@ -1,6 +1,7 @@
 # http://www.seanbehan.com/how-to-create-a-date-time-snippet-in-sublime-text-2-dynamic-signature-with-time-stamp
 # http://net.tutsplus.com/tutorials/python-tutorials/how-to-create-a-sublime-text-2-plugin/
 # https://gist.github.com/uberbuilder/4657558
+# http://www.cnblogs.com/restran/archive/2013/01/07/2850254.html
 
 import datetime, getpass
 import sublime, sublime_plugin

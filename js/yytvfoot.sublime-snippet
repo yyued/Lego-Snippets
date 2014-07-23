@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- YYTV页脚{-->
+<script  src="http://live.yy.com/public/main/subject/navbar/js/foot.js" charset="utf-8"></script>
+<!--}YYTV页脚 -->
+]]></content>
+	<tabTrigger>yytvfoot</tabTrigger>
+	<description>foot.js</description>
+	<scope>text.html</scope>
+</snippet>

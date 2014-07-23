@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<!-- 全站导航{ -->
+<!-- 多玩通用导航{ -->
 <script src="http://www.duowan.com/public/s/i/navbar/navbar.js" charset="utf-8"></script>
-<!-- }全站导航 -->
+<!-- }多玩通用导航 -->
 ]]></content>
-	<tabTrigger>topnavjs</tabTrigger>
+	<tabTrigger>dwbar</tabTrigger>
 	<description>navbar.js</description>
 	<scope>text.html</scope>
 </snippet>
