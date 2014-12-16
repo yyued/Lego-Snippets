@@ -3,7 +3,7 @@
 <!--[if !IE]><!--><link href="${1:url}" rel="dns-prefetch"><!--<![endif]-->
 <!--[if gt IE 8]><link href="$1" rel="prefetch"><![endif]-->
 ]]></content>
-	<tabTrigger>meta:dns</tabTrigger>
+	<tabTrigger>meta.dns</tabTrigger>
 	<scope>text.html</scope>
 </snippet>
 <!-- https://developer.mozilla.org/en-US/docs/Controlling_DNS_prefetching -->

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <link href="${1:http://licence.visualidiot.com/}" rel="license">
 ]]></content>
-	<tabTrigger>link:lic</tabTrigger>
+	<tabTrigger>link.lic</tabTrigger>
 	<scope>text.html</scope>
 </snippet>

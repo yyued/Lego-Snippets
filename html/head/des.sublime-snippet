@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <meta content="${1}" name="description">
 ]]></content>
-	<tabTrigger>meta:des</tabTrigger>
+	<tabTrigger>meta.des</tabTrigger>
 	<scope>text.html</scope>
 </snippet>

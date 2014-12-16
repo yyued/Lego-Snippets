@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <base href="${1:/}" target="${2:_blank|_self}">
 ]]></content>
-	<tabTrigger>meta:base</tabTrigger>
+	<tabTrigger>base</tabTrigger>
 	<scope>text.html</scope>
 </snippet>

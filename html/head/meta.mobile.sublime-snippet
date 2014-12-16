@@ -10,7 +10,7 @@
 <meta name="format-detection" content="email=no">
 <meta name="format-detection" content="address=no">
 ]]></content>
-	<tabTrigger>meta:mobi</tabTrigger>
+	<tabTrigger>meta.mobi</tabTrigger>
 	<scope>text.html</scope>
 </snippet>
 <!-- http://blogs.msdn.com/b/iemobile/archive/2010/11/22/the-ie-mobile-viewport-on-windows-phone-7.aspx -->

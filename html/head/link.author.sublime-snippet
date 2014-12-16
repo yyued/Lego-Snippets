@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <link href="${1:/humans.txt}" type="text/plain" rel="author">
 ]]></content>
-	<tabTrigger>link:humans</tabTrigger>
+	<tabTrigger>link.humans</tabTrigger>
 	<scope>text.html</scope>
 </snippet>

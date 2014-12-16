@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- YY页脚{-->
+<script src="http://assets.dwstatic.com/common/yyfoot/yyfoot.js" charset="utf-8"></script>
+<!--}YY页脚 -->
+]]></content>
+	<tabTrigger>yyfoot</tabTrigger>
+	<description>foot.js</description>
+	<scope>text.html</scope>
+</snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <link href="${1}" rel="stylesheet">
 ]]></content>
-	<tabTrigger>link:css</tabTrigger>
+	<tabTrigger>link.css</tabTrigger>
 	<scope>text.html</scope>
 </snippet>
