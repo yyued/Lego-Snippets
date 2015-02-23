@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 min-height: ${1:1px};
-_height: $1;
 ]]></content>
 	<tabTrigger>minh</tabTrigger>
 	<description>min-height</description>

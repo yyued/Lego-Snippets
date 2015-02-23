@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-float: left; _display: inline;
+float: left;
 ]]></content>
 	<tabTrigger>fl</tabTrigger>
 	<description>float:left</description>

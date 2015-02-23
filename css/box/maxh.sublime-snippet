@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 max-height: ${1:100}px;
-_height: expression(this.parentNode.offsetHeight > $1 ? "$1px" : "auto");
 ]]></content>
 	<tabTrigger>maxh</tabTrigger>
 	<description>max-height</description>

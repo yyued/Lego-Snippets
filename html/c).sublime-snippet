@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Copyright &copy; 2014 ${1:Duowan}. All Rights Reserved.
+Copyright &copy; 2015 ${1:Duowan}. All Rights Reserved.
 ]]></content>
 	<tabTrigger>c)</tabTrigger>
 	<description>copyright</description>

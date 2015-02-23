@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-max-height: ${1:100}px;
-_height: expression(this.height > $1 ? $1 : true);
-]]></content>
-	<tabTrigger>maxhi</tabTrigger>
-	<description>max-height img IE6</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

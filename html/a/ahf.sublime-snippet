@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<a href="#" title="" hidefocus="true">${0}</a>
+<a href="" title="" hidefocus="true">${0}</a>
 ]]></content>
 	<tabTrigger>ahf</tabTrigger>
 	<scope>text.html</scope>

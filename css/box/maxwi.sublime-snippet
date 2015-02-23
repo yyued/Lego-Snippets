@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-max-width: ${1:100}px;
-_width: expression(this.width > $1 ? $1 : true);
-]]></content>
-	<tabTrigger>maxwi</tabTrigger>
-	<description>max-width img IE6</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

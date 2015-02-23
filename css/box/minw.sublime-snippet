@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 min-width: ${1:100}px;
-_width: expression(this.parentNode.offsetWidth < $1 ? "$1px" : "auto");
 ]]></content>
 	<tabTrigger>minw</tabTrigger>
 	<description>min-width+IE6</description>
