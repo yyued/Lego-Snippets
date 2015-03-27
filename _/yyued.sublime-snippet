@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+__  ____  ____  _________
+\ \/ /\ \/ / / / / __/ _ \
+ \  /  \  / /_/ / _// // /
+ /_/   /_/\____/___/____/
+]]></content>
+	<tabTrigger>yyued</tabTrigger>
+	<description>YYUED Ascii</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>
+<!-- http://www.network-science.de/ascii/ -->

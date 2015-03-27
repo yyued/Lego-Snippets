@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<!-- ${0} -->
+<!-- {${Some Note}} -->
 ]]></content>
 	<tabTrigger>cc</tabTrigger>
 	<!-- <description>&lt;!-- ? --&gt;</description> -->
