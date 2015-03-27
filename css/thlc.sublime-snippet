@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
--webkit-tap-highlight-color: rgba(${1:0, 0, 0, 0});
-]]></content>
-	<tabTrigger>thlc</tabTrigger>
-	<description>-webkit-tap-highlight-color</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

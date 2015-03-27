@@ -1,8 +1,6 @@
 <snippet>
 	<content><![CDATA[
--webkit-background-clip: padding-box;
-   -moz-background-clip: padding;
-        background-clip: padding-box;
+background-clip: padding-box;
 ]]></content>
 	<tabTrigger>bgclip</tabTrigger>
     <description>background-clip</description>

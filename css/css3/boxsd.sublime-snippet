@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
--webkit-box-shadow: ${1:0} ${2:0} ${3:1px} ${4:0} ${5:#000};
-        box-shadow: $1 $2 $3 $4 $5;
+box-shadow: ${1:0} ${2:0} ${3:4px} ${4:0} ${5:#000};
 ]]></content>
 	<tabTrigger>boxsd</tabTrigger>
     <description>box-shadow</description>

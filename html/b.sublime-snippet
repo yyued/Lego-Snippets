@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <b>${0}</b>
 ]]></content>
-	<tabTrigger>bb</tabTrigger>
+	<tabTrigger>b</tabTrigger>
 	<description>b element</description>
 	<scope>text.html</scope>
 </snippet>

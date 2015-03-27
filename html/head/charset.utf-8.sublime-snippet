@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<meta charset="${1:utf-8}">
-]]></content>
-	<tabTrigger>meta.char</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

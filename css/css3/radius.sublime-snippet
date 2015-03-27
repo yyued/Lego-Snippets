@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
--webkit-border-radius: ${1:4px};
-        border-radius: $1;
-]]></content>
-	<tabTrigger>radius</tabTrigger>
-    <description>border-radius</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Copyright &copy; 2015 ${1:Duowan}. All Rights Reserved.
 ]]></content>
-	<tabTrigger>c)</tabTrigger>
+	<tabTrigger>copyright</tabTrigger>
 	<description>copyright</description>
 	<scope>text.html</scope>
 </snippet>

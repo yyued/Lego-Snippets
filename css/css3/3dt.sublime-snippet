@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+perspective    : 300px;
+transform      : rotateY(${1:180}deg);
+transform-style: preserve-3d;
+]]></content>
+	<tabTrigger>3dt</tabTrigger>
+    <description>3d transform</description>
+	<scope>source.css, source.scss</scope>
+</snippet>

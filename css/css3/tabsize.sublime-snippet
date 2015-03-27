@@ -1,8 +1,6 @@
 <snippet>
 	<content><![CDATA[
-  -moz-tab-size: ${1:2};
-    -o-tab-size: $1;
-       tab-size: $1;
+tab-size: ${1:2};
 ]]></content>
 	<tabTrigger>tabsize</tabTrigger>
     <description>tab-size</description>

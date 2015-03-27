@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
--webkit-background-size: ${1:100%} ${2:100%};
-        background-size: $1 $2;
+background-size: ${1:100%} ${2:100%};
 ]]></content>
 	<tabTrigger>bgs</tabTrigger>
     <description>background-size</description>

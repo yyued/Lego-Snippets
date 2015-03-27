@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <i>${0}</i>
 ]]></content>
-	<tabTrigger>ii</tabTrigger>
+	<tabTrigger>i</tabTrigger>
     <description>i element</description>
 	<scope>text.html</scope>
 </snippet>

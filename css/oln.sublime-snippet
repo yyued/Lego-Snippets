@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-@import url(${0});
+outline: 0 none;
 ]]></content>
-	<tabTrigger>import</tabTrigger>
-	<description>@import url()</description>
+	<tabTrigger>oln</tabTrigger>
+	<description>outline</description>
 	<scope>source.css, source.scss</scope>
 </snippet>

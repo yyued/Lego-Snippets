@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-box-sizing: border-box;
+box-sizing: content-box;
 ]]></content>
 	<tabTrigger>boxs</tabTrigger>
     <description>box-sizing</description>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
--webkit-border-radius: ${1:4px};
-        border-radius: $1;
+border-radius  : ${1:4px};
+background-clip: padding-box;
 ]]></content>
 	<tabTrigger>bdr</tabTrigger>
     <description>border-radius</description>

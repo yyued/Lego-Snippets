@@ -1,9 +1,6 @@
 <snippet>
 	<content><![CDATA[
--webkit-animation: ${1:myanim} ${2:5s} ${3:infinite};
-   -moz-animation: $1 $2 $3;
-     -o-animation: $1 $2 $3;
-        animation: $1 $2 $3;
+animation: ${1:myanim} ${2:5s} ${3:infinite};
 ]]></content>
 	<tabTrigger>animation</tabTrigger>
     <description>animation</description>
