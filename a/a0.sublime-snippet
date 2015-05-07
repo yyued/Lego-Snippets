@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<a href="javascript:void(0);">${0}</a>
+<a href="javascript:;">${0}</a>
 ]]></content>
 	<tabTrigger>a0</tabTrigger>
-	<description>href=javascript:void(0)</description>
+	<description>href=javascript:;</description>
 	<scope>text.html</scope>
 </snippet>

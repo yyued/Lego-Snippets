@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<colgroup>
-	${1}
-</colgroup>
-]]></content>
-	<tabTrigger>colg</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

@@ -4,6 +4,6 @@
 	${0}
 </noscript>
 ]]></content>
-	<tabTrigger>nos</tabTrigger>
+	<tabTrigger>noscript</tabTrigger>
 	<scope>text.html</scope>
 </snippet>

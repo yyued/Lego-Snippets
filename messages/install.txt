@@ -1,0 +1,12 @@
+
+LEGO Snippets
+
+Thank you for installing LEGO Snippets.
+
+## Features
+
+* Works with default CSS package
+* Support LESS
+
+-------------
+Enjoy coding!

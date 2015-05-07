@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="" title=""><img src="http://assets.dwstatic.com/common/img/blank.png" data-original="http://ued.yypm.com/${1:130x90}" alt="">${2}</a>
+]]></content>
+	<tabTrigger>aimgl</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

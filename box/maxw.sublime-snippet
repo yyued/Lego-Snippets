@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-max-height: ${1:100}px;
+max-width: ${1:100%};
 ]]></content>
-	<tabTrigger>maxh</tabTrigger>
-	<description>max-height</description>
+	<tabTrigger>maxw</tabTrigger>
+	<description>max-width</description>
 	<scope>source.css, source.scss</scope>
 </snippet>
