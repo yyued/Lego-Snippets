@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
-\(function( ${1:yyued} ) \{
-    // your code
+(function( ${1:yyued} ) \{
+
+    ${2://code}
+
 \}( window.$1 = window.$1 || \{\} ));
 ]]></content>
 	<tabTrigger>iife</tabTrigger>
