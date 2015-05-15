@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-font: 12px/1.5 Tahoma, sans-serif;
-]]></content>
-	<tabTrigger>font</tabTrigger>
-	<description>font:12px/1.5 Tahoma,sans-serif</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

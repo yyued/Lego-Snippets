@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-word-break: keep-all;
-]]></content>
-	<tabTrigger>wbk</tabTrigger>
-	<description>word-break:keep-all</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

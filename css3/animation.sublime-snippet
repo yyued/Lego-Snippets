@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-animation: ${1:myanim} ${2:5s} ${3:infinite};
-]]></content>
-	<tabTrigger>animation</tabTrigger>
-    <description>animation</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

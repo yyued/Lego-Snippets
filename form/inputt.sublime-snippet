@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<input type="tel">
-]]></content>
-	<tabTrigger>inputt</tabTrigger>
-	<description>type=tel</description>
-	<scope>text.html</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-// TODO: ${1:something}
-]]></content>
-	<tabTrigger>tdj</tabTrigger>
-	<description>// TODO: ?</description>
-	<!-- <scope>source.python</scope> -->
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-@charset "utf-8";
-]]></content>
-	<tabTrigger>char</tabTrigger>
-	<description>@charset "utf-8"</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

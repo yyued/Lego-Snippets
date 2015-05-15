@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ul class="list--picture">
+	<li><a href="#"><img alt="" src="http://art.yypm.com/${1:130x90}"></a></li>
+</ul>
+]]></content>
+	<tabTrigger>listpic</tabTrigger>
+    <description>LEGO picture</description>
+	<scope>text.html</scope>
+</snippet>

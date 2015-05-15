@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="" title="$1">${1}</a>
-]]></content>
-	<tabTrigger>at</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

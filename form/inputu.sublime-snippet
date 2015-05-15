@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<input type="url">
-]]></content>
-	<tabTrigger>inputu</tabTrigger>
-	<description>type=url</description>
-	<scope>text.html</scope>
-</snippet>

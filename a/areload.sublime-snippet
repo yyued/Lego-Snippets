@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="javascript:location.reload();" title="$1">${1:刷新}</a>
-]]></content>
-	<tabTrigger>areload</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

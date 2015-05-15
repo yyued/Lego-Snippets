@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-vertical-align: top;
-]]></content>
-	<tabTrigger>vat</tabTrigger>
-	<description>vertical-align:top</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

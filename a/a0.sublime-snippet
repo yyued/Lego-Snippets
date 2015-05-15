@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="javascript:;">${0}</a>
-]]></content>
-	<tabTrigger>a0</tabTrigger>
-	<description>href=javascript:;</description>
-	<scope>text.html</scope>
-</snippet>

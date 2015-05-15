@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<option value="">${0}</option>
-]]></content>
-	<tabTrigger>op</tabTrigger>
-	<description>option</description>
-	<scope>text.html</scope>
-</snippet>

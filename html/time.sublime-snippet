@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<time datetime="${1}">${0}</time>
-]]></content>
-	<tabTrigger>time</tabTrigger>
-	<description>time element</description>
-	<scope>text.html</scope>
-</snippet>

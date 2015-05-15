@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-width: auto;
-]]></content>
-	<tabTrigger>wa</tabTrigger>
-	<description>width: auto</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

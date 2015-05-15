@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-font: 12px/1.5 Tahoma, "Microsoft YaHei";
-]]></content>
-	<tabTrigger>fyh</tabTrigger>
-	<description>font:12px/1.5 Tahoma,"Microsoft YaHei"</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<meta content="${1}" name="keywords">
-]]></content>
-	<tabTrigger>meta.key</tabTrigger>
-	<scope>text.html</scope>
-</snippet>
-<!-- http://segmentfault.com/blog/ciaocc/1190000002407912 -->

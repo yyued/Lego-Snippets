@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<p>${0}</p>
-]]></content>
-	<tabTrigger>pp</tabTrigger>
-    <description>p element</description>
-	<scope>text.html</scope>
-</snippet>

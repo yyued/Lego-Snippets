@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<button type="submit">${1:提交}</button>
-]]></content>
-	<tabTrigger>buttons</tabTrigger>
-	<description>type=submit</description>
-	<scope>text.html</scope>
-</snippet>

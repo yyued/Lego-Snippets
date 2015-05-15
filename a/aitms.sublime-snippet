@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="itms-apps://${1:url}">${2}</a>
-]]></content>
-	<tabTrigger>aitms</tabTrigger>
-	<description>href=itms-apps</description>
-	<scope>text.html</scope>
-</snippet>

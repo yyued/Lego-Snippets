@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-class="${0}"
-]]></content>
-	<tabTrigger>.</tabTrigger>
-	<description>class=""</description>
-	<scope>text.html</scope>
-</snippet>

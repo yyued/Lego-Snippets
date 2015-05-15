@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="verify-code">${1:验证码：}</label>
-<input id="verify-code" type="text" required>
-]]></content>
-	<tabTrigger>code+</tabTrigger>
-	<description>label+verify-code</description>
-	<scope>text.html</scope>
-</snippet>

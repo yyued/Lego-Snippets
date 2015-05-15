@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-overflow-y: scroll;
-]]></content>
-	<tabTrigger>oys</tabTrigger>
-	<description>overflow-y:scroll</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

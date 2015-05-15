@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cursor: default;
-]]></content>
-	<tabTrigger>curd</tabTrigger>
-	<description>cursor:default</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

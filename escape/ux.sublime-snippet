@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-&times;
-]]></content>
-	<tabTrigger>ux</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

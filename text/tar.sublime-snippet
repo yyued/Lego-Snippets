@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-text-align: right;
-]]></content>
-	<tabTrigger>tar</tabTrigger>
-	<description>text-align:right</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

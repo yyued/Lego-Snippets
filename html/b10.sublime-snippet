@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="blank10"></div>
-]]></content>
-	<tabTrigger>b10</tabTrigger>
-	<description>div.blank10</description>
-	<scope>text.html</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-position: absolute;
-]]></content>
-	<tabTrigger>poa</tabTrigger>
-	<description>position:absolute</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

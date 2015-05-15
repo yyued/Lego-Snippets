@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cursor: auto;
-]]></content>
-	<tabTrigger>cura</tabTrigger>
-	<description>cursor:auto</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

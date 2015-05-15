@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Copyright &copy; 2015 ${1:YY.com}. All Rights Reserved.
-]]></content>
-	<tabTrigger>copyright</tabTrigger>
-	<description>copyright</description>
-	<scope>text.html</scope>
-</snippet>

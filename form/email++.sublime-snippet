@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="confirm-email">${1:确认邮箱：}</label>
-<input id="confirm-email" type="email" placeholder="${2:Email}">
-]]></content>
-	<tabTrigger>email++</tabTrigger>
-	<description>label+confirm-email</description>
-	<scope>text.html</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<hr>
-]]></content>
-	<tabTrigger>hr</tabTrigger>
-	<description>hr element</description>
-	<scope>text.html</scope>
-</snippet>

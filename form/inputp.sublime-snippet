@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<input type="password">
-]]></content>
-	<tabTrigger>inputp</tabTrigger>
-	<description>type=password</description>
-	<scope>text.html</scope>
-</snippet>

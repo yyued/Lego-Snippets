@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<noscript>
-	${0}
-</noscript>
-]]></content>
-	<tabTrigger>noscript</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

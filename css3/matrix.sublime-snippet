@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-transform: matrix(${1:...});
-]]></content>
-	<tabTrigger>matrix</tabTrigger>
-    <description>transform: matrix</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

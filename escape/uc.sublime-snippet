@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-&copy;
-]]></content>
-	<tabTrigger>uc</tabTrigger>
-	<description>c)</description>
-	<scope>text.html</scope>
-</snippet>

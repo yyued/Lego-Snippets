@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="tel">${1:电话：}</label>
-<input id="tel" type="tel" placeholder="">
-]]></content>
-	<tabTrigger>tel+</tabTrigger>
-	<description>label+tel</description>
-	<scope>text.html</scope>
-</snippet>

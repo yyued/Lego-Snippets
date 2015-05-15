@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<input type="file" multiple="multiple">
-]]></content>
-	<tabTrigger>inputf</tabTrigger>
-	<description>type=file</description>
-	<scope>text.html</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<a href="http://www.yy.com/go.html#${1:10}">进入频道：$1</a>
-]]></content>
-	<tabTrigger>ayy</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<input type="hidden" value="">
-]]></content>
-	<tabTrigger>inputh</tabTrigger>
-	<description>type=hidden</description>
-	<scope>text.html</scope>
-</snippet>

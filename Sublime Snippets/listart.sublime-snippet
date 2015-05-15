@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<ul class="list--article">
+	<li><a href="#" title="">零壹贰弎肆伍陆柒捌玖拾</a></li>
+</ul>
+]]></content>
+	<tabTrigger>listart</tabTrigger>
+	<description>LEGO article</description>
+	<scope>text.html</scope>
+</snippet>

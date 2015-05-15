@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label>${1}</label>
-<input type="text" placeholder="">
-]]></content>
-	<tabTrigger>label+</tabTrigger>
-	<description>label+</description>
-	<scope>text.html</scope>
-</snippet>

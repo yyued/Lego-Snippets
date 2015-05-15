@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-font-family: SimSun;
-]]></content>
-	<tabTrigger>ffst</tabTrigger>
-	<description>font-family:SimSun</description>
-	<scope>source.css, source.scss</scope>
-</snippet>
-<!-- TODO: \5B8B\4F53 -->

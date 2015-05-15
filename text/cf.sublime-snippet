@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-color: #fff;
-]]></content>
-	<tabTrigger>cf</tabTrigger>
-	<description>color:#fff</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

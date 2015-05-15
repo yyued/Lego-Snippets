@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-zoom: ${1:1};
-]]></content>
-	<tabTrigger>zo</tabTrigger>
-	<description>zoom</description>
-	<scope>source.css, source.scss</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="username">${1:用户名：}</label>
-<input id="username" type="text" placeholder="">
-]]></content>
-	<tabTrigger>username+</tabTrigger>
-	<description>label+username</description>
-	<scope>text.html</scope>
-</snippet>

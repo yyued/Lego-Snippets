@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var mobi = (/Android|iPhone|iPad|iPod|BlackBerry/i).test(navigator.userAgent || navigator.vendor || window.opera);
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>varmobi</tabTrigger>
-	<description>var mobi</description>
-	<!-- <scope>source.js</scope> -->
-</snippet>
