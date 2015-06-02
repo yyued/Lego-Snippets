@@ -48,6 +48,7 @@ Snippets | Describe | Usage
 `progress` | 进度条 | `ui-progress` + tab
 `badge` | 徽章 | `ui-badge` + tab
 `lineList` | 带分割线的文本列表 | `ui-lineList` + tab
+`center` | 不固定内容垂直居中 | `u-center` + tab
 `tab` | 标签选项卡 | `ui-tab` + tab
 `slide` | 幻灯片 | `ui-slide` + tab
 `carousel` | 旋转木马 | `ui-carousel` + tab
