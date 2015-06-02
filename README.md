@@ -1,4 +1,4 @@
-# LegoUI for pc Sublime Text Snippets
+# Sublime Snippets for LegoUI
 这是[LegoUI for pc](https://github.com/duowan/LegoUI-pc)与[LegoUI for mobile](https://github.com/duowan/LegoUI-mobi)的常用组件代码片段，通过Sublime Text的快捷键可以快速生成指定的代码片段。
 
 ## 安装
