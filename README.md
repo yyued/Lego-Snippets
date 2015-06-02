@@ -49,6 +49,7 @@ Snippets | Describe | Usage
 `badge` | 徽章 | `ui-badge` + tab
 `lineList` | 带分割线的文本列表 | `ui-lineList` + tab
 `center` | 不固定内容垂直居中 | `u-center` + tab
+`object` | 全兼容的flash object结构 | `ui-obj` + tab
 `tab` | 标签选项卡 | `ui-tab` + tab
 `slide` | 幻灯片 | `ui-slide` + tab
 `carousel` | 旋转木马 | `ui-carousel` + tab
