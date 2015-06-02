@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<!-- 分页导航$1 start -->
+<div class="ui-paging">
+    <a href="#" class="ui-paging__item" rel="prev" title="上一页">&laquo;</a>
+    <a href="#" class="ui-paging__item">1</a>
+    <span class="ui-paging__item is-current">2</span>
+    <a href="#" class="ui-paging__item">3</a>
+    <a href="#" class="ui-paging__item">4</a>
+    <a href="#" class="ui-paging__item">5</a>
+    <a href="#" class="ui-paging__item">6</a>
+    <span class="ui-paging__ellipsis">...</span>
+    <a href="#" class="ui-paging__item">20</a>
+    <a href="#" class="ui-paging__item" rel="next" title="下一页">&raquo;</a>
+</div>
+<!-- 分页导航$1 end -->
+]]></content>
+	<tabTrigger>ui-paging</tabTrigger>
+	<description>LEGO paging</description>
+	<scope>text.html</scope>
+</snippet>

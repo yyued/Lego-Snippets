@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<div class="ui-slide ext-dotted">
+    <ul class="ui-slide__content" data-switchable-role="content">
+       <li class="ui-slide__panel">
+            <a href="#"><img src="http://ued.yypm.com/740x300x1" /></a>
+        </li>
+        <li class="ui-slide__panel hide">
+            <a href="#"><img src="http://ued.yypm.com/740x300x2" /></a>
+        </li>
+        <li class="ui-slide__panel hide">
+            <a href="#"><img src="http://ued.yypm.com/740x300x3" /></a>
+        </li>
+    </ul>
+    <ul class="ui-slide__nav" data-switchable-role="nav">
+        <li class="ui-slide__trigger is-active">1</li>
+        <li class="ui-slide__trigger">2</li>
+        <li class="ui-slide__trigger">3</li>
+    </ul>
+    <span class="ui-slide__prev" data-switchable-role="prev"><i class="ui-icon">&#xe628;</i></span>
+    <span class="ui-slide__next" data-switchable-role="next"><i class="ui-icon">&#xe642;</i></span>
+</div>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-slide</tabTrigger>
+	<description>LEGO slide</description>
+	<scope>text.html</scope>
+</snippet>

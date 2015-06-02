@@ -10,7 +10,7 @@
 	<!--<![endif]-->
 </object>
 ]]></content>
-	<tabTrigger>obj</tabTrigger>
+	<tabTrigger>ui-obj</tabTrigger>
 	<description>LEGO object</description>
 	<scope>text.html</scope>
 </snippet>

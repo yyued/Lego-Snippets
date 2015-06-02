@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<ul class="ui-list">
+    <li class="ui-list__item">
+        <span class="ui-list__meta">${1:01.02}</span>
+        <a class="ui-list__tag" href="#">[新游]</a>
+        <a class="ui-list__link" href="#" title="">有爱玩家伤不起 《剑网3》人妖牡丹cos照曝光</a>
+    </li>
+</ul>
+]]></content>
+	<tabTrigger>ui-list</tabTrigger>
+	<description>LEGO list</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<div class="ui-tab">
+    <div class="ui-tab__hd">
+        <ul class="ui-tab__nav" data-switchable-role="nav">
+            <li class="ui-tab__trigger is-active"><a href="#">标题A</a></li>
+            <li class="ui-tab__trigger"><a href="#">标题B</a></li>
+            <li class="ui-tab__trigger"><a href="#">标题C</a></li>
+        </ul>
+    </div>
+    <div class="ui-tab__bd" data-switchable-role="content">
+        <div class="ui-tab__panel">内容A</div>
+        <div class="ui-tab__panel u-hide">内容B</div>
+        <div class="ui-tab__panel u-hide">内容C</div>
+    </div>
+</div>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-tab</tabTrigger>
+	<description>LEGO tab</description>
+	<scope>text.html</scope>
+</snippet>

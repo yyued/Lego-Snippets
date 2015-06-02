@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<ul class="ui-figure">
+    <li class="ui-figure__item">
+        <a href="#" class="ui-figure__bd" title="">
+            <img src="http://ued.yypm.com/130x90" alt="" class="ui-figure__img" />
+            <span class="ui-figure__mask">胜者作品</span>
+        </a>
+        <h3 class="ui-figure__caption"><a href="#">星际猪出品星际2漫画</a></h3>
+    </li>
+</ul>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-figure</tabTrigger>
+	<description>LEGO figure</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="ui-progress">
+    <div class="ui-progress__bar" role="progressbar" style="width:30%;">${1:30%}</div>
+</div>
+]]></content>
+	<tabTrigger>ui-progress</tabTrigger>
+	<description>LEGO progress</description>
+	<scope>text.html</scope>
+</snippet>

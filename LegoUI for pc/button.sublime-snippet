@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a class="ui-btn" href="#">${1:默认按钮}</a>
+]]></content>
+	<tabTrigger>ui-btn</tabTrigger>
+	<description>LEGO button[a]</description>
+	<scope>text.html</scope>
+</snippet>

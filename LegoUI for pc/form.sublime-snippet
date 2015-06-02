@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<form class="ui-form" action="">
+    <div class="ui-form__item">
+        <label class="ui-form__label" for="username"><span class="ui-form__required">*</span>输入框</label>
+        <input type="input" id="username" class="ui-input">
+        <span class="ui-form__tips">用户名是你的注册邮箱地址</span>
+    </div>
+    <div class="ui-form__item">
+        <label class="ui-form__label" for="phonenum">文本</label>
+        <span class="ui-form__txt">13570288888</span>
+    </div>
+    <div class="ui-form__item">
+        <label class="ui-form__label" for="">单选框</label>
+        <label for="male" class="ui-radio"><input type="radio" id="male" name="gender">男</label>
+        <label for="female" class="ui-radio"><input type="radio" id="female" name="gender">女</label>
+    </div>
+    <div class="ui-form__item ui-form__control">
+        <input type="button" class="ui-btn ext-primary" value="确认提交">
+        <input type="button" class="ui-btn" value="返回">
+    </div>
+</form>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-form</tabTrigger>
+	<description>LEGO form</description>
+	<scope>text.html</scope>
+</snippet>

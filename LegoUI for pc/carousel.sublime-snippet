@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<div class="ui-carousel" data-role="carousel-demo1">
+    <div class="ui-carousel__scroller">
+        <ul class="ui-carousel__content" data-switchable-role="content">
+            <li class="ui-carousel__item">
+                <img src="http://ued.yypm.com/80x80x1" alt="">
+            </li>
+        </ul>
+    </div>
+    <span class="ui-carousel__prev" data-switchable-role="prev"><i class="ui-icon">&#xe628;</i></span>
+    <span class="ui-carousel__next" data-switchable-role="next"><i class="ui-icon">&#xe642;</i></span>
+</div>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-carousel</tabTrigger>
+	<description>LEGO carousel</description>
+	<scope>text.html</scope>
+</snippet>

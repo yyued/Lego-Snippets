@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<div class="ui-panel">
+    <div class="ui-panel__hd">
+        <i class="ui-panel__ico"></i>
+        <h3 class="ui-panel__tit">${1:标题}</h3>
+        <span class="ui-panel__meta">额外文本</span>
+        <div class="ui-panel__more ui-lineList">
+            <a href="#">链接1</a>
+            <a href="#">链接2</a>
+            <a href="#">更多»</a>
+        </div>
+    </div>
+    <div class="ui-panel__bd">
+        
+    </div>
+</div>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-panel</tabTrigger>
+	<description>LEGO panel</description>
+	<scope>text.html</scope>
+</snippet>

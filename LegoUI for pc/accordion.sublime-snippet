@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<div class="ui-accordion">
+    <div class="ui-accordion__hd" data-switchable-role="trigger">标题A</div>
+    <div class="ui-accordion__bd" data-switchable-role="panel">
+        内容A
+    </div>
+    <div class="ui-accordion__hd" data-switchable-role="trigger">标题B</div>
+    <div class="ui-accordion__bd u-hide" data-switchable-role="panel">
+        内容B
+    </div>
+    <div class="ui-accordion__hd" data-switchable-role="trigger">标题C</div>
+    <div class="ui-accordion__bd u-hide" data-switchable-role="panel">
+        内容C
+    </div>
+</div>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-accordion</tabTrigger>
+	<description>LEGO accordion</description>
+	<scope>text.html</scope>
+</snippet>

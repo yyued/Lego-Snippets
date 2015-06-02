@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="ui-lineList">
+    <a href="#">链接1</a>
+    <a href="#">链接2</a>
+    <a href="#">链接3</a>
+    <a href="#">更多»</a>
+</div>
+]]></content>
+	<tabTrigger>ui-lineList</tabTrigger>
+	<description>LEGO lineList</description>
+	<scope>text.html</scope>
+</snippet>

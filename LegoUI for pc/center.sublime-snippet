@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="u-center">
+    <div class="u-center__inner">
+        ${1:这里放置垂直居中内容}
+    </div>
+    <span class="u-center__hack"></span>
+</div>
+]]></content>
+	<tabTrigger>u-center</tabTrigger>
+	<description>LEGO center</description>
+	<scope>text.html</scope>
+</snippet>

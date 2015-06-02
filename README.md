@@ -1,25 +1,57 @@
-## About
-LEGO Snippets in Sublime Text 2/3
+# LegoUI for pc Sublime Text Snippets
+这是[LegoUI for pc](https://github.com/duowan/LegoUI-pc)与[LegoUI for mobile](https://github.com/duowan/LegoUI-mobi)的常用组件代码片段，通过Sublime Text的快捷键可以快速生成指定的代码片段。
 
-## <a href="https://sublime.wbond.net/installation">How to install</a>
-Get Package Control for Sublime Text 2/3. Installation is through the Sublime Text 2/3 console. The console is accessed via the ctrl+` shortcut or the View > Show Console menu. Once open, paste the appropriate Python code for your version of Sublime Text into the console.
+## 安装
 
-### SUBLIME TEXT 2
-```
-import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')
-```
-### SUBLIME TEXT 3
-```
-import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
-```
+### Mac/Linux 环境
 
-1. Package Control: Add Repository `https://github.com/duowan/LEGO-Snippets`
-2. Package Control: Install Package `LEGO Snippets`
-3. Restart ST2/3 editor
+**第一步：** 进入Sublime Text packages文件夹
 
-### “Help! My snippets doesn’t work anymore in HTML/CSS files!”
+如果你用的是Sublime Text2：
 
-By default, Emmet overrides Tab key behaviour and expands its own abbreviations instead native snippets. You can either disable this feature in user preferences (add `"disable_tab_abbreviations": true` setting into your _Settings — User_ file) and use `Ctrl+E` or `Ctrl+Alt+Enter` to expand Emmet abbeviations or move your snippets to Emmet as described [here](https://github.com/sergeche/emmet-sublime/issues/16#issuecomment-8427268). I’m investigating possibility to expand native snippets via Emmet Tab key handler.
+<pre>cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages</pre>
 
-#### Thank you for installing LEGO Snippets.
-#### Enjoy coding!
+如果你用的是Sublime Text3：
+
+<pre>cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages</pre>
+
+**第二步：**  Clone 该插件到packages文件夹
+
+<pre>git clone https://github.com/duowan/Lego-Snippets.git</pre>
+
+### Windows 环境
+
+<pre>cd "%AppData%\Sublime Text 3\Packages\User" git clone https://github.com/duowan/Lego-Snippets.git</pre>
+
+
+安装好之后，最好重启一下Sublime Text。
+
+
+## 使用
+
+在`HTML`文件中输入代码片段标记(tabTrigger)，光标聚焦在标记后面，按`tab`键即可生成对应的代码片段。
+
+
+## Snippets及快捷键
+
+## LegoUI for pc
+
+Snippets | Describe | Usage
+----|----|----
+`button` | 按钮 | `ui-btn` + tab
+`form` | 表单 | `ui-form` + tab
+`table` | 表格 | `ui-table` + tab
+`list` | 文本列表 | `ui-list` + tab
+`panel` | 区块面板 | `ui-panel` + tab
+`figure` | 图片画廊 | `ui-figure` + tab
+`paging` | 分页导航 | `ui-paging` + tab
+`progress` | 进度条 | `ui-progress` + tab
+`badge` | 徽章 | `ui-badge` + tab
+`lineList` | 带分割线的文本列表 | `ui-lineList` + tab
+`tab` | 标签选项卡 | `ui-tab` + tab
+`slide` | 幻灯片 | `ui-slide` + tab
+`carousel` | 旋转木马 | `ui-carousel` + tab
+`accordion` | 手风琴 | `ui-accordion` + tab
+`marquee` | 轮播文字条 | `ui-marquee` + tab
+
+

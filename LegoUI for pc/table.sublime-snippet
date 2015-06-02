@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<table class="ui-table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Twitter</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>01</td>
+            <td>Abraham Kuri</td>
+            <td>@kurenn</td>
+        </tr>
+    </tbody>
+</table>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>ui-table</tabTrigger>
+	<description>LEGO table</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="ui-badge u-bgPrimary">${1:1}</span>
+]]></content>
+	<tabTrigger>ui-badge</tabTrigger>
+	<description>LEGO badge</description>
+	<scope>text.html</scope>
+</snippet>
