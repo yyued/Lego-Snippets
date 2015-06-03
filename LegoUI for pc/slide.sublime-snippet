@@ -6,10 +6,10 @@
        <li class="ui-slide__panel">
             <a href="#"><img src="http://ued.yypm.com/740x300x1" /></a>
         </li>
-        <li class="ui-slide__panel hide">
+        <li class="ui-slide__panel u-hide">
             <a href="#"><img src="http://ued.yypm.com/740x300x2" /></a>
         </li>
-        <li class="ui-slide__panel hide">
+        <li class="ui-slide__panel u-hide">
             <a href="#"><img src="http://ued.yypm.com/740x300x3" /></a>
         </li>
     </ul>
