@@ -56,4 +56,15 @@ Snippets | Describe | Usage
 `accordion` | 手风琴 | `ui-accordion` + tab
 `marquee` | 轮播文字条 | `ui-marquee` + tab
 
+## LegoUI for mobi
+
+Snippets | Describe | Usage
+----|----|----
+`tab` | 面板切换 | `m-tab` + tab
+`nav` | 水平导航 | `m-nav` + tab
+`popup` | 弹出层 | `m-popup` + tab
+`slideMenu` | 侧边菜单栏 | `m-slideMenu` + tab
+`falls` | 两列瀑布流 | `m-falls` + tab
+`video` | 视频模块 | `m-video` + tab
+
 
