@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<div class="mod-slideMenu" id="${2:slideMenu}">
+    <div class="mod-slideMenu__bar" data-js="bar">
+        <p class="mod-slideMenu__listTitle">菜单列表1</p>
+        <ul class="mod-slideMenu__list">
+            <a href="#"><li class="mod-slideMenu__listItem">菜单项1</li></a>
+            <a href="#"><li class="mod-slideMenu__listItem">菜单项2</li></a>
+            ...
+        </ul>
+        <p class="mod-slideMenu__listTitle">菜单列表2</p>
+        <ul class="mod-slideMenu__list">
+            <a href="#"><li class="mod-slideMenu__listItem">菜单项1</li></a>
+            <a href="#"><li class="mod-slideMenu__listItem">菜单项2</li></a>
+            ...
+        </ul>
+        ...
+    </div>
+    <div class="mod-slideMenu__bd" data-js="body">
+        <!-- innerHtml here just like the element is 'body' -->
+        ...
+    </div>
+</div>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>m-slideMenu</tabTrigger>
+	<description>LEGO Mobile slideMenu</description>
+	<scope>text.html</scope>
+</snippet>

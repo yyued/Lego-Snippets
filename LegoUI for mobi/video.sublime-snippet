@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- $1 start -->
+<div id="${2:video}" style="width:100%;height:240px;"></div>
+<!-- $1 end -->
+]]></content>
+	<tabTrigger>m-video</tabTrigger>
+	<description>LEGO Mobile video</description>
+	<scope>text.html</scope>
+</snippet>
